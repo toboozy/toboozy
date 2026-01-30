@@ -1,20 +1,15 @@
 ## About me
 
-I graduated from QUT in 2023 with a Bachelor of Games and Interactive Environments. I have skills in Unity, programming, and audio. 
+Unity Developer and Software Developer. Expertise in Unity Engine, C#, .NET, GIT and OOP. Secondary skills in C, C++, HTML, CSS, and Python. Passion for problem solving, games, and learning. 
 
-In the last few years, I've worked under the mentorship of Gameloft Brisbane, showcased games at the Queensland Games Festival, and co-founded Mobster Lobster Games. 
+QUT 2023 Graduate of Bachelor of Games and Interactive Environments (Game Design) with distinction. Achieved position on the Deans list for exceptional academic performance despite working two jobs. Received mentorship from Gameloft Brisbane during my capstone project. 
 
-I regularly participate in events like the Global Game Jam, Game Makers Tool Kit Game Jam, and Queensland Games Festival.
+Co-founded Mobster Lobster Games in 2024 with a focus on short, experimental experiences. Showcased our work at the Queensland Games Festival, Zed Games Indie Dev Night, and UQ Reality Labs events. Gained professional experience writing project plans, budgets, and creative pitch decks. Received business coaching from Birdifi Bridge. 
 
-I come from a creative industries background with a history of successfully recording/releasing original music, managing bands, hosting gigs, creating promotional videos, performing, and educating young musicians as a travelling tutor. 
-
-I utilise my multi-disciplinary skillset and creative drive to help bring projects to fruition. 
+Started a trumpet tutoring business in 2018 and grew my student network through targeted advertising, resulting in consistent, recurring income from ten weekly students. I successfully guided students through AMEB exam curriculum using a results-based approach to teaching.
 
 ## Contact
 
-Contact me to learn how I can help you achieve your development goals: matthew.muller1998@gmail.com
+I'm currently open to any programming work with a preference for OOP languages. You can reach me at contact@mattmuller.dev and I will respond within 1-2 days.  
 
-Contact my studio to recieve a quote on any outsourced work: gamesmobsterlobster@gmail.com
-
-
-
+Alternatively, contact my studio to recieve a quote for any outsourced game development work: gamesmobsterlobster@gmail.com
