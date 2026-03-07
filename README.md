@@ -1,13 +1,13 @@
 ## About me
 
-Unity Developer and Software Developer. Expertise with C# and Unity Engine. Experience with C, C++, HTML, CSS, SQLite3, Flask, Bootstrap, JavaScript, and Python. Passion for problem solving, games, and learning. 
+Unity Developer and Software Developer. Expertise with C# and Unity Engine. Experience with C, C++, HTML, PHP, CSS, SQLite3, Flask, Bootstrap, JavaScript, and Python. Passion for problem solving, games, and learning. 
 
-QUT 2023 Graduate of Bachelor of Games and Interactive Environments (Game Design) with distinction. Achieved position on the Deans list for exceptional academic performance. Received mentorship from Gameloft Brisbane during my capstone project. 
+I graduated from QUT in 2023 with a Bachelor of Games and Interactive Environments, achieving a position on the Dean's List for exceptional academic performance. I gained practical game development experience working with industry professionals from Gameloft Brisbane and Women in Construction alongside other student projects. 
 
-Co-founded Mobster Lobster Games in 2024 with a focus on short, experimental experiences. Showcased our work at the Queensland Games Festival, Zed Games Indie Dev Night, and UQ Reality Labs events. Gained professional experience writing project plans, budgets, and creative pitch decks. Received business coaching from Birdifi Bridge. 
+After graduating, I established Mobster Lobster Games with three developers I met at university. We're a boutique studio focused on bite-sized, vibrant experiences inspired by Sokpop Collective, Jonas Tyroller, and Semiwork. We received business coaching from Birdifi Bridge and showcased our work at several prominent festivals, such as the Queensland Games Festival. In addition to my programming work, I wrote project plans, budgets, and creative pitch decks for funding bodies.  
 
 ## Contact
 
-I'm currently open to any programming work with a preference for Unity development. You can reach me at contact@mattmuller.dev and I will respond within 1-2 days.  
+I'm currently open to any programming work with a preference for game or web development. You can reach me at contact@mattmuller.dev and I will respond within 1-2 days.  
 
 Alternatively, contact my studio to recieve a quote for any outsourced game development work: gamesmobsterlobster@gmail.com
