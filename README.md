@@ -9,5 +9,3 @@ After graduating, I established Mobster Lobster Games with three developers I me
 ## Contact
 
 I'm currently open to any programming work with a preference for game or web development. You can reach me at contact@mattmuller.dev and I will respond within 1-2 days.  
-
-Alternatively, contact my studio to recieve a quote for any outsourced game development work: gamesmobsterlobster@gmail.com
